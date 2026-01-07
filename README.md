@@ -13,3 +13,6 @@ HuggingFace is an open-source machine learning or ML platform with a built-in tr
 - Fine-Tuning Transformers with PyTorch and Hugging Face
 
 **Parameter Efficient Fine Tuning (PEFT) :**
+- Adapters with PyTorch
+- LoRA with PyTorch
+- [Optional] Lab: QLoRA with Hugging Face
