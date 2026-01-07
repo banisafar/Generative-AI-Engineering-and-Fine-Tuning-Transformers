@@ -6,10 +6,10 @@ Fine-tuning enhances efficiency and saves time and computational resources compa
 
 HuggingFace is an open-source machine learning or ML platform with a built-in transformers library for natural language processing (or NLP) applications. Its built-in datasets can be loaded using the load_dataset function.
 
-**Transformers and Fine Tuning : **
+**Transformers and Fine Tuning :**
 - Loading Models and Inference with Hugging Face Inferences
 - [Optional] Pre-training LLMs with Hugging Face
 - Pre-Training and Fine-Tuning with PyTorch
 - Fine-Tuning Transformers with PyTorch and Hugging Face
 
-**Parameter Efficient Fine Tuning (PEFT) : **
+**Parameter Efficient Fine Tuning (PEFT) :**
