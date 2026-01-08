@@ -33,21 +33,23 @@ Building custom training loops
 - QLoRA - Quantized LoRA for even more memory-efficient training
 
 **Key Concepts**
+
+
 **Fine-tuning** adapts pretrained models for specific tasks by updating weights on task-specific data, saving time and resources compared to training from scratch.
 **PEFT methods** reduce trainable parameters while maintaining performance:
 
-- Update only 1-5% of model parameters
+- Update small % of model parameters
 - Enable fine-tuning on consumer hardware
 - Can be "plugged in/out" of base models
 
-Approaches
+**Approaches**
 
 - Self-supervised fine-tuning
 - Supervised fine-tuning
 - Reinforcement learning from human feedback (RLHF)
 - Direct preference optimization (DPO)
 
-Tools & Libraries
+**Tools & Libraries**
 - PyTorch
 - Hugging Face Transformers
 - Hugging Face Datasets
