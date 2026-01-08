@@ -1,6 +1,8 @@
 # Generative-AI-Engineering-and-Fine-Tuning-Transformers
 
+This repository covers transformer fine-tuning and parameter-efficient techniques for adapting large language models to specific tasks.
 
+**Notebooks**
 
 **Transformers and Fine Tuning :**
 - Loading Models and Inference with Hugging Face Inferences
@@ -12,10 +14,6 @@
 - Adapters with PyTorch
 - LoRA with PyTorch
 - [Optional] Lab: QLoRA with Hugging Face
-
-
-**Fine-Tuning Transformers**
-This repository covers transformer fine-tuning and parameter-efficient techniques for adapting large language models to specific tasks.
 
 
 **Topics Covered**
