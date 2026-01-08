@@ -39,14 +39,13 @@ Can be "plugged in/out" of base models
 
 Approaches
 
-Self-supervised fine-tuning
-Supervised fine-tuning
-Reinforcement learning from human feedback (RLHF)
-Direct preference optimization (DPO)
+- Self-supervised fine-tuning
+- Supervised fine-tuning
+- Reinforcement learning from human feedback (RLHF)
+- Direct preference optimization (DPO)
 
 Tools & Libraries
-
-PyTorch
-Hugging Face Transformers
-Hugging Face Datasets
-PEFT library
+- PyTorch
+- Hugging Face Transformers
+- Hugging Face Datasets
+- PEFT library
